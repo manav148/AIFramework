@@ -1,6 +1,6 @@
 # LLM Rules and Best Practices
 
-## Major Points
+## Major Points (Absolutely Neccesary)
 
 1. Regression Testing
    - Before adding new code, existing code should be tested to check for regression.
