@@ -14,6 +14,9 @@
    - The number of lines of code in a single file should be less than 100.
    - If a file exceeds this limit, consider refactoring or splitting the code into multiple files.
 
+4. No unnecessary assumptions.
+   - Please don't make vague assumptions and ask the user before making any high-level assumptions.
+
 ## Best Coding Practices
 
 1. Code Readability
